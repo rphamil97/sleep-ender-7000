@@ -8,4 +8,4 @@ The Sleep Ender 7000 will be an alarm clock that will be powered via USB. When t
 I'm just writing down what comes to mind.
 - the game could be the radar tuner thing from Gears 5
   - I have the rotary encoders and nav sticks necessary to make it work
-- I'll need to build a small amplifier circuit. I'd just use the one from the (Arduino Audio tutorial) [https://www.arduino.cc/en/Tutorial/SimpleAudioPlayer]
+- I'll need to build a small amplifier circuit. I'd just use the one from the [Arduino Audio tutorial](https://www.arduino.cc/en/Tutorial/SimpleAudioPlayer)
